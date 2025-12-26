@@ -11,6 +11,8 @@ A simple Python program that calculates a student's current school grade and uni
 ## How to Run
 1. Just run the code in python
 2. Enter your birthday and how many years future you want to calculate
+## For Turkish Users/Türkçe Kullanıcılar için
+1. If you want to run the code in turkish, use the main_tr.py
 
 Its my first code!
 
